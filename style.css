@@ -1,0 +1,9 @@
+body {
+    font-family: Terminal;
+}
+#cookie {
+    width: 200px;
+    height: 200px;
+    background-color: #AFB42B;
+    border-radius: 50%;
+}
