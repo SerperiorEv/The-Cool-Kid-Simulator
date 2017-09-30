@@ -1,5 +1,5 @@
 let score = 0
-let cookieElement = document.getElementById('cookie');Id()
+let cookieElement = document.getElementById('cookie');
 let scoreElement = document.getElementById('score');
 
 
